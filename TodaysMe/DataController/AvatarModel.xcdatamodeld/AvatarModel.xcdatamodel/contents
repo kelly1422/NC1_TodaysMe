@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="20086" systemVersion="21D62" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Avatar" representedClassName="Avatar" syncable="YES" codeGenerationType="class">
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="eyes" optional="YES" attributeType="String"/>
+        <attribute name="face" optional="YES" attributeType="String"/>
+        <attribute name="hair" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="message" optional="YES" attributeType="String"/>
+        <attribute name="mouth" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Avatar" positionX="-63" positionY="-18" width="128" height="134"/>
+    </elements>
+</model>
